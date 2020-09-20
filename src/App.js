@@ -22,7 +22,7 @@ function App() {
         </a>
       </header>
       <AmplifySignOut />
-    </div>
+    </div> 
   );
 }
 
